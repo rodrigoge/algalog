@@ -1,0 +1,8 @@
+package com.algaworks.algalog.common;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ModelMapperConfig {
+
+}

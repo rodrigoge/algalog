@@ -1,0 +1,9 @@
+package com.algaworks.algalog.domain.model;
+
+public class Entrega {
+	private Long id;
+	
+	private Cliente cliente;
+	
+	
+}
